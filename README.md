@@ -1,3 +1,3 @@
 # AI-search-Methods
 
-<embed src="https://pdfhost.io/v/lpSlOqkjU_reportpdf.pdf" width="500" height="375" type="application/pdf">
+<embed src="https://www.docdroid.net/eiviDG9/report-pdf" width="500" height="800" type="application/pdf">
